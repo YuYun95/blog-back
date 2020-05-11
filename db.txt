@@ -1,0 +1,21 @@
+用户表
+user_id
+
+
+
+
+文章表
+article_id: 文章id
+user_id: 发表用户id
+user_name: 发表用户名
+article_title：文章标题
+article_summary: 摘要
+article_content： 文章内容
+article_views：浏览量
+article_comment_count: 评论总数
+release_time：发布时间
+article_sort: 分类
+article_like_count：点赞数
+open_comment： 开启评论
+is_top: 置顶
+recommend: 推荐
